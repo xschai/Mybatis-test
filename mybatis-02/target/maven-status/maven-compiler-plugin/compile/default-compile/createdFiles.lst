@@ -1,0 +1,3 @@
+com\chai\dao\UserDao.class
+com\chai\pojo\User.class
+com\chai\utils\MybatisUtils.class

@@ -1,0 +1,6 @@
+[INFO][21-01-01][com.chai.dao.UserDaoTest]info进入log4j
+[DEBUG][21-01-01][com.chai.dao.UserDaoTest]debug进入log4j
+[ERROR][21-01-01][com.chai.dao.UserDaoTest]error进入log4j
+[INFO][21-01-01][com.chai.dao.UserDaoTest]info进入log4j
+[DEBUG][21-01-01][com.chai.dao.UserDaoTest]debug进入log4j
+[ERROR][21-01-01][com.chai.dao.UserDaoTest]error进入log4j
