@@ -11,7 +11,9 @@ import java.util.Map;
 import org.apache.log4j.Logger;
 
 public class UserDaoTest {
+
     static  Logger logger=Logger.getLogger(UserDaoTest.class);
+
     @Test
     public void testLog4f(){
         logger.info("info进入log4j");
@@ -19,7 +21,6 @@ public class UserDaoTest {
         logger.error("error进入log4j");
 
     }
-
 
     @Test
     public  void test(){

@@ -1,0 +1,4 @@
+com\chai\dao\BlogMapper.class
+com\chai\utils\IdUtils.class
+com\chai\utils\MybatisUtils.class
+com\chai\pojo\Blog.class

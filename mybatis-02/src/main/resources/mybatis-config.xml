@@ -5,7 +5,7 @@
 
 
 <configuration>
-    <properties  resource="db.properties"></properties>
+    <properties  resource="db.properties" />
 
 
     <settings>
@@ -30,7 +30,7 @@
         </environment>
     </environments>
     <mappers>
-<!--        <mapper resource="com/chai/dao/userMapper.xml" />-->
-        <mapper class="com.chai.dao.UserDao"/>
+        <mapper resource="com/chai/dao/userMapper.xml" />
+<!--        <mapper class="com.chai.dao.UserDao"/>-->
     </mappers>
 </configuration>
